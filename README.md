@@ -61,7 +61,7 @@ Function type is selected with `FUNCTION`.
 
 `GRAPH` output is generated from a two-dimensional array, with characters placed to trace the function's shape across a fixed grid. No graphics library is used.
 
-This calculator also runs inside the terminal window on the Projects page of the [portfolio site](https://github.com/MathisJean/portfolio).
+This calculator also runs [here](https://mathisjean.github.io/console_graphing_calculator/).
 
 ---
 
